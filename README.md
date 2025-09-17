@@ -122,40 +122,47 @@ print("\nLenght of X_test ",len(X_test))
 ```
 ## OUTPUT:
 ### Data
-![image](https://github.com/user-attachments/assets/60b6c086-7026-4845-9216-9773d6771b00)
+<img width="1510" height="527" alt="image" src="https://github.com/user-attachments/assets/7877461d-8508-4e89-93ed-e119222e639c" />
+
 
 ### Data checking
 
-![image](https://github.com/user-attachments/assets/a2f25808-8f26-4510-983a-c3276112828a)
+<img width="264" height="364" alt="image" src="https://github.com/user-attachments/assets/7b9f9ec3-9a76-4138-8bdf-e54548be1452" />
+
 
 ### Missing Data 
 
-![image](https://github.com/user-attachments/assets/63ea43cf-e33e-437b-ade8-0b5e4852fae4)
+<img width="334" height="302" alt="image" src="https://github.com/user-attachments/assets/23ba5264-d6dd-4a10-b507-907f0d2d74a3" />
+
 
 ### Duplicates identification
 
-![image](https://github.com/user-attachments/assets/8c5afc6b-1974-457c-ab87-d4dd46605d6a)
+<img width="210" height="50" alt="image" src="https://github.com/user-attachments/assets/24186df7-a32d-41bf-abc7-d359edef2b2b" />
 
 ### Values of 'X'
-![image](https://github.com/user-attachments/assets/ee6c66d2-dddd-482d-a1f2-9602f2176a2f)
+<img width="233" height="49" alt="image" src="https://github.com/user-attachments/assets/29882523-7970-4665-85c5-7b9f7d027b81" />
+
 
 ### Values of 'Y'
-![image](https://github.com/user-attachments/assets/32200314-e602-4510-8ed5-aebd6bc5b650)
+<img width="307" height="301" alt="image" src="https://github.com/user-attachments/assets/44d51d03-f0eb-4724-88f6-37dc45d928cc" />
 
 ### Outliers
-![image](https://github.com/user-attachments/assets/a46ebd34-4d14-4d62-9aa6-0b68075fe623)
+<img width="1539" height="387" alt="image" src="https://github.com/user-attachments/assets/afe8ddda-ff44-4851-a483-4b362dc052ae" />
+
 
 ### Checking datasets after dropping string values data from dataset
-![image](https://github.com/user-attachments/assets/f2e3d539-3ef6-4abd-8ce5-156f591651bf)
+<img width="1244" height="261" alt="image" src="https://github.com/user-attachments/assets/5ecbc3a7-940c-44c6-b3a8-eceb1c6e5d33" />
+
 
 ### Normalize the dataset
-![image](https://github.com/user-attachments/assets/db169abd-75e1-4792-ac03-3ab7f9e4114e)
+<img width="819" height="628" alt="image" src="https://github.com/user-attachments/assets/aad78dd2-c54a-4c5d-9395-57b47d49a582" />
 
 ### Split the dataset
-![image](https://github.com/user-attachments/assets/3d20c258-1ff8-4d64-b2bf-df22a8d165e6)
+<img width="599" height="208" alt="image" src="https://github.com/user-attachments/assets/0fd5c899-7b67-4751-8f2b-10fe7ad712e4" />
+
 
 ### Training and testing model
-![image](https://github.com/user-attachments/assets/07d876a2-c89d-475f-9cdb-fd38c7f43db2)
+<img width="601" height="565" alt="image" src="https://github.com/user-attachments/assets/eef0316c-8531-4048-b32f-528af4bd76f8" />
 
 
 ## RESULT:
